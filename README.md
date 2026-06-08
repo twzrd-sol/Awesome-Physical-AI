@@ -64,3 +64,7 @@ Closed-source platforms offer specialized, high-performance, and integrated solu
 ## ✨ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Physical-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Physical-AI&type=date&legend=top-left)
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for physical AI agents. Verify the identity of autonomous robots or drones before granting API access or authorizing micropayments for sensor data. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
